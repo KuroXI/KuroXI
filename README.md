@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Javascript** and maybe try to learn **Java** in the future.
 
-- 👨‍💻 All of my projects are available at [NPM JS](https://www.npmjs.com/~kuroxi)
+- 👨‍💻 Projects:
+  - NPM - https://www.npmjs.com/~kuroxi
+  - Discord Bot - https://top.gg/user/591825295338766394
 
 - 📫 How to reach me **Kurooo#5157**
 
@@ -22,5 +24,5 @@
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroxi&show_icons=true&locale=en" alt="kuroxi" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroxi&show_icons=true&count_private=true" alt="kuroxi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroxi&show_icons=true&locale=en&theme=dark" alt="kuroxi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroxi&show_icons=true&count_private=true&theme=dark" alt="kuroxi" /></p>
