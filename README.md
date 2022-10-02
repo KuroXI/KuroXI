@@ -1,21 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kurooo</h1>
-<h3 align="center">A Discord Bot and NPM Developer</h3>
+<center>
+<h1>Hi 👋, I'm Kurooo</h1>
 
-- 🌱 I’m currently learning **Javascript** and maybe try to learn **Java** in the future.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuroXI&repo=Discord-Template-v13&theme=onedark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuroXI&repo=cs&theme=onedark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://supabase.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left">
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> 
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroxi&show_icons=true&locale=en&theme=dark" alt="kuroxi" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroxi&show_icons=true&count_private=true&theme=dark" alt="kuroxi" /></p>
+[![KuroXI Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kuroxi&show_icons=true&count_private=true&theme=onedark&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![KuroXI Wakatime](https://github-readme-stats.vercel.app/api/wakatime/?username=kuroxi&repo=github-readme-stats&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+</center>
