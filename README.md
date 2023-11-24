@@ -9,5 +9,9 @@ Cognitive Class\
 November 3, 2023
 
 [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=61C2468F5A1C486594BCB50022D8072165C70CE57D744E787149D6F4924AE65A)\
-Oracle Corporation\
+Oracle\
 November 17, 2023
+
+[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B9D124D8D8B8B64E9D6161828E5012D84514BAF577E972E5C1528247095DC86A)\
+Oracle\
+November 23, 2023
