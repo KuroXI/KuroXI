@@ -14,3 +14,7 @@ November 17, 2023
 [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B9D124D8D8B8B64E9D6161828E5012D84514BAF577E972E5C1528247095DC86A)\
 Oracle\
 November 23, 2023
+
+[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DB8CE2CCC7A4685D570ECF3C179F7015445120EE819B96556F8C2F364ADEB753)\
+Oracle\
+November 29, 2023
