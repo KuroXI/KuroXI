@@ -5,7 +5,7 @@ I am John Victor Gonzales, with a flair for coding and database management skill
 Education:\
 BS Computer Science\
 New Era University\
-2021-Present
+2022-Present
 
 Certificate:\
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/de1b0699ec6b4e9aa26dbcfe2bae573b)\
