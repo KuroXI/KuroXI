@@ -2,9 +2,9 @@ About me:
 
 I am John Victor Gonzales, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Computer Science program.
 
-Education:
-BS Computer Science
-New Era University
+Education:\
+BS Computer Science\
+New Era University\
 2021-Present
 
 Certificate:\
